@@ -1,0 +1,9 @@
+main: com.planetbn.mysterybox.MysteryBox
+name: MysteryBox
+version: 1.0.0
+description: Mysterybox by Mukri
+author: Mukri.xyz
+api-version: 1.16
+commands:
+  mysterybox:
+    description: mysterybox commands.

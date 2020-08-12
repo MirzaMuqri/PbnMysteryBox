@@ -1,0 +1,16 @@
+common: 
+  - "items:DIAMOND:10"
+  - "items:DIAMOND_HELMET:1"
+  - "items:DIAMOND_BOOTS:1"
+  - "cmd:broadcast {name} hello!:10Bnd"
+  - "summon:CREEPER:&cThis will be the name:10"
+rare: 
+  - "items:DIAMOND:10"
+  - "items:DIAMOND_HELMET:1"
+  - "items:DIAMOND_BOOTS:1"
+  - "cmd:broadcast {name} hello!:20Bnd"
+legendary: 
+  - "items:DIAMOND:10"
+  - "items:DIAMOND_HELMET:1"
+  - "items:DIAMOND_BOOTS:1"
+  - "cmd:broadcast {name} hello!:30Bnd"
